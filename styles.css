@@ -1,17 +1,17 @@
-/*  your css code here. If applicable */
-p {
-    border: 1px solid rgb(0, 0, 0);
-    padding: 10px;
-}
+  #yellow {
+            background-color: yellow;
+            border: 1px solid black;
+            padding: 10px;
+        }
 
-#yellow {
-    background-color: yellow;
-}
+        #red {
+            background-color: #f44336;
+            border: 1px solid black;
+            padding: 10px;
+        }
 
-#red {
-    background-color: red;
-}
-
-#green {
-    background-color: green;
-}
+        #green {
+            backgroun-color: #4caf50;
+            border: 1px solid black;
+            padding: 10px;
+        }
